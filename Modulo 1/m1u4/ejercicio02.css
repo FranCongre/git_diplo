@@ -1,0 +1,25 @@
+h1{
+    background-color: aquamarine;
+    font-weight: 500px;
+    font-style: italic;
+    text-align: center;
+    margin : 50px;
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color : goldenrod;
+    font-size: xx-large;
+}
+
+ul{
+    font-style: oblique;
+    background-color: black;
+    color :beige;
+}
+
+p{
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+    color : red;
+}

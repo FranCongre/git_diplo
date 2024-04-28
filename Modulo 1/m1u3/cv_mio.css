@@ -1,0 +1,57 @@
+.magia {
+  font-family: "Nunito Sans", sans-serif;
+}
+
+h1 {
+  color: rgb(235, 189, 169);  
+  background: linear-gradient(
+    to bottom,
+    #cb60b3 0%,
+    #a80077 16%,
+    #a80077 24%,
+    #a80077 33%,
+    #006eb2 54%,
+    #5e88c4 67%,
+    #5297aa 72%,
+    #23898e 100%
+  ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 80px;
+  font-style: italic;
+  font-weight: 150px;
+  text-align: center;
+}
+
+.cajas {
+  background-color: rgb(149, 80, 144);
+  padding: 10px;
+  box-sizing: border-box;
+  column-count: 2;
+  column-gap: 50px;
+  box-shadow: 5px 5px 5px;
+  h3 {
+    margin-top: 10px;
+  }
+}
+
+#caja1 {
+  background-color: rgb(169, 124, 241);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  width: 300px;
+  padding: 5px;
+  border-top: 10px solid black;
+  box-sizing: border-box;
+  color: white;
+  border-radius: 15px 15px 15px;
+}
+
+.magia {
+  padding: 15px;
+  background-color: rgb(118, 113, 156);
+  box-sizing: border-box;
+  box-shadow: 10px 10px 10px gray;
+}
+
+p {
+  font-family: "Nunito Sans", sans-serif;
+}
