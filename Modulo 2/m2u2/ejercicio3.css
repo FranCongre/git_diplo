@@ -1,0 +1,18 @@
+
+.contenedor{
+    background-color: rgb(190, 190, 220);
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+    align-content: flex-end;
+    }
+
+.item{
+    background-color: orange;
+    width: 150px;
+    height: 100px;
+    margin: 10px;
+    font-size: 40px;
+    }

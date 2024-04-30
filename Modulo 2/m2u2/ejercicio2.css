@@ -1,0 +1,16 @@
+
+.contenedor{
+    background-color: rgb(190, 190, 220);
+    height: 500px;
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-content: center;
+    }
+
+.item{
+    background-color: orange;
+    width: 150px;
+    height: 100px;
+    margin: 10px;
+    font-size: 40px;
+    }

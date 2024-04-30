@@ -1,0 +1,14 @@
+
+.contenedor{
+    background-color: rgb(190, 190, 220);
+    display: flex;
+    justify-content: space-between;
+    
+    }
+.item{
+    background-color: orange;
+    width: 150px;
+    height: 100px;
+    margin: 10px;
+    font-size: 40px;
+    }
