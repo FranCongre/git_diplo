@@ -119,3 +119,26 @@ footer {
   background-color: var(--color1);
   font-family: "Fraunces", serif;;
 }
+
+@media (max-width: 600px) {
+    .contenedor{
+        background-color: var(--color1);
+        box-sizing: border-box;
+    }
+    h1{
+        text-align: left;
+    }
+    .caja{
+        display: inline-flex;
+        flex-direction: column;
+        align-items: baseline;
+        height: 600px;
+    }    
+    main{
+            background-color: var(--color2);
+
+    }
+    aside {
+            background-color: var(--color3);
+    }
+}
