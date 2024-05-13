@@ -5,6 +5,7 @@
     display: inline-flex;
     flex-wrap: wrap;
     align-content: center;
+    flex-direction: row-reverse;
     }
 
 .item{
